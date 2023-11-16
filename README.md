@@ -34,3 +34,8 @@ Integração com Dados Reais: Implementar a integração com uma API ou backend 
 Filtros Avançados: Adicionar filtros avançados para permitir que os usuários personalizem a visualização de dados com base em diferentes critérios.
 
 Notificações em Tempo Real: Implementar notificações em tempo real para alertar sobre eventos importantes, como a conclusão de uma venda significativa.
+
+
+
+Segue o link para ter a experiência 
+ https://leandroferreira991.github.io/crm-de-vendas/
